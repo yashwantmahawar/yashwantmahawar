@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, Yashwant here 👋
+
+[![Twitter Badge](https://img.shields.io/badge/-@Yashwant&nbsp;Mahawar-1ca0f1?style=flat&labelColor=black&logo=twitter&logoColor=blue&link=https://twitter.com/YashwantMahaw12)](https://twitter.com/YashwantMahaw12)
+[![Linkedin Badge](https://img.shields.io/badge/-Yashwant%20Mahawar-blue?style=flat&labelColor=white&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/yashwantmahawar/)](https://www.linkedin.com/in/yashwantmahawar/) 
+
 
 <!--
 **yashwantmahawar/yashwantmahawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
