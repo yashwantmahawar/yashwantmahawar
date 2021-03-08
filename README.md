@@ -16,7 +16,9 @@ Description
 
 ## My Certificates
 ---
-<img src="/home/yashwantmahawar/Downloads/aws-certified-sysops-administrator-associate.png" width=100/>
+<a href="https://raw.githubusercontent.com/yashwantmahawar/yashwantmahawar/main/certs/aws-certified-solution-architect-associate.png"><img src="https://raw.githubusercontent.com/yashwantmahawar/yashwantmahawar/main/certs/aws-certified-solution-architect-associate.png" width="auto" height="100" title="AWS Certified Solution Architect Associate"></a>
+
+<a href="https://www.youracclaim.com/badges/4453a8a0-3ca3-4380-a5c6-4b710783d408"><img src="https://raw.githubusercontent.com/yashwantmahawar/yashwantmahawar/main/certs/aws-certified-sysops-administrator-associate.png" width="auto" height="100" title="AWS Certified Sysops Administrator Associate"></a>
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=yashwantmahawar&count_private=true&show_icons=true)](https://github-readme-stats.vercel.app/api?username=yashwantmahawar&count_private=true&show_icons=true)
 
