@@ -1,5 +1,5 @@
 # Hi there, Yashwant Here 👋
----
+
 [![Twitter Badge](https://img.shields.io/badge/-&nbsp;twitter-white?style=flat&labelColor=white&logo=twitter&logoColor=blue)](https://twitter.com/YashwantMahaw12)
 [![Linkedin Badge](https://img.shields.io/badge/-&nbsp;linkedin-white?style=flat&labelColor=white&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/yashwantmahawar/) 
 [![Gmail Badge](https://img.shields.io/badge/-&nbsp;gmail-white?style=flat&labelColor=white&logo=gmail&logoColor=red&)](https://www.linkedin.com/in/yashwantmahawar/)
@@ -7,15 +7,15 @@
 [![Stackoverflow Badge](https://img.shields.io/badge/-medium&nbsp;-gray?style=flat&labelColor=gray&logo=medium&logoColor=black&)](https://medium.com/@yashwantmahawar)
 
 ## Aboue me
----
+
 Description 
 
 ## Tech Stack
----
+
 
 
 ## My Certificates
----
+
 
 <p float="left">
 <a href="https://raw.githubusercontent.com/yashwantmahawar/yashwantmahawar/main/certs/aws-certified-solution-architect-associate.png"><img src="https://raw.githubusercontent.com/yashwantmahawar/yashwantmahawar/main/certs/aws-certified-solution-architect-associate.png" width="auto" height="100" title="AWS Certified Solution Architect Associate"></a>
