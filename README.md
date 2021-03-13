@@ -8,10 +8,18 @@
 
 ## Aboue me
 
-Description 
+I am senior devops engineer who is seeking to automate everything which I can. I have experties in clouds. Shell and python are the tools of my kitchen and my kitchen is [Intellij](https://www.jetbrains.com/idea/)
 
 ## Tech Stack
 
+- AWS + GCP
+- CI/CD - Jenkins, CircleCI, AWS Pipeline, GitLab, Bitbucket Pipeline, Github Pipeline
+- IaC - Terraform
+- Configuration - Ansible
+- Monitoring - Grafana, Prometheus, DataDog, Thanos
+- Log Management - ELK, Datadog
+- Containerization - Docker, Kubernets
+- Webservers - Nginx + Tomcat
 
 
 ## My Certificates
