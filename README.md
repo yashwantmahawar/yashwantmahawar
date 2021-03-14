@@ -18,7 +18,7 @@ I am senior devops engineer who is seeking to automate everything which I can. I
 - Configuration - Ansible
 - Monitoring - Grafana, Prometheus, DataDog, Thanos
 - Log Management - ELK, Datadog
-- Containerization - Docker, Kubernets
+- Containerization - Docker, Kubernetes
 - Webservers - Nginx + Tomcat
 
 
