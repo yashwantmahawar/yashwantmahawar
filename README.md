@@ -29,15 +29,10 @@ I am senior devops engineer who is seeking to automate everything which I can. I
 
 <p float="left">
 <a href="https://raw.githubusercontent.com/yashwantmahawar/yashwantmahawar/main/certs/aws-certified-solution-architect-associate.png"><img src="https://raw.githubusercontent.com/yashwantmahawar/yashwantmahawar/main/certs/aws-certified-solution-architect-associate.png" width="auto" height="100" title="AWS Certified Solution Architect Associate"></a>
-  
 <a href="https://www.youracclaim.com/badges/4453a8a0-3ca3-4380-a5c6-4b710783d408"><img src="https://raw.githubusercontent.com/yashwantmahawar/yashwantmahawar/main/certs/aws-certified-sysops-administrator-associate.png" width="auto" height="100" title="AWS Certified Sysops Administrator Associate"></a>
-  
 <a href="https://www.youracclaim.com/badges/e54135ca-ced6-45eb-afc3-08882029e0c6"><img src="https://raw.githubusercontent.com/yashwantmahawar/yashwantmahawar/main/certs/hashicorp-certified-terraform-associate.png" width="auto" height="100" title="AWS Certified Sysops Administrator Associate"></a>
-  
 <a href="https://https://www.credly.com/badges/2b0c6624-9e3f-4940-8f5b-ebe9551046fb/public_url"><img src="https://raw.githubusercontent.com/yashwantmahawar/yashwantmahawar/main/certs/consul.png" width="auto" height="100" title="Hashicorp Consul"></a>
-  
 <a href="https://www.credly.com/badges/e74b404b-b7d0-4571-8fa6-d52e0afdfb86/public_url"><img src="https://raw.githubusercontent.com/yashwantmahawar/yashwantmahawar/main/certs/vault.png" width="auto" height="100" title="Hashicorp Valut"></a>
-  
 <a href="https://www.credential.net/693d46e0-0d4f-4bdb-b2ab-0513360a926e?key=57831f33e8d4fd80a1ea8eb2f8d1fbd37b2d877a7339967dd6b72847367f1e85"><img src="https://raw.githubusercontent.com/yashwantmahawar/yashwantmahawar/main/certs/pca.png" width="auto" height="100" title="Professional Google Cloud Architect "></a>
 <p>
 
