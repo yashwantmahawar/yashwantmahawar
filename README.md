@@ -25,6 +25,10 @@ I am senior devops engineer who is seeking to automate everything which I can. I
 ## My Certificates
 
 <!--START_SECTION:badges-->
+[![HashiCorp Certified: Consul Associate (002)](https://images.credly.com/size/110x110/images/5a1ba86e-8a0f-44cb-b7e2-4c192480fedf/image.png)](http://www.credly.com/badges/2b0c6624-9e3f-4940-8f5b-ebe9551046fb "HashiCorp Certified: Consul Associate (002)")
+[![HashiCorp Certified: Vault Associate (002)](https://images.credly.com/size/110x110/images/fd1bf1cf-dc60-4868-b3a3-9b93e8af763c/image.png)](http://www.credly.com/badges/e74b404b-b7d0-4571-8fa6-d52e0afdfb86 "HashiCorp Certified: Vault Associate (002)")
+[![HashiCorp Certified: Terraform Associate (002)](https://images.credly.com/size/110x110/images/99289602-861e-4929-8277-773e63a2fa6f/image.png)](http://www.credly.com/badges/47b6a474-a22a-4054-8970-7f4d615c7c6b "HashiCorp Certified: Terraform Associate (002)")
+[![AWS Certified SysOps Administrator – Associate](https://images.credly.com/size/110x110/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png)](http://www.credly.com/badges/4453a8a0-3ca3-4380-a5c6-4b710783d408 "AWS Certified SysOps Administrator – Associate")
 <!--END_SECTION:badges-->
 
 <p float="left">
