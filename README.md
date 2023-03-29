@@ -24,6 +24,8 @@ I am senior devops engineer who is seeking to automate everything which I can. I
 
 ## My Certificates
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 <p float="left">
 <a href="https://raw.githubusercontent.com/yashwantmahawar/yashwantmahawar/main/certs/aws-certified-solution-architect-associate.png"><img src="https://raw.githubusercontent.com/yashwantmahawar/yashwantmahawar/main/certs/aws-certified-solution-architect-associate.png" width="auto" height="100" title="AWS Certified Solution Architect Associate"></a>
